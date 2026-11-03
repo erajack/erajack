@@ -1,16 +1,19 @@
-## Hi there 👋
+# Ethan Rajack
 
-<!--
-**erajack/erajack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[LinkedIn](https://www.linkedin.com/in/ethan-rajack/)
 
-Here are some ideas to get you started:
+CS @ Western University | Software Engineering & Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Right now
+
+- Software Engineer @ **Tech for Social Impact** — developing a dashboard for the Brain Tumour Foundation.
+- Software Engineer @ **Western Cyber Society** — building a browser extension to detect phishing and malicious websites.
+
+### Projects
+
+- **Tenacio** — a property management web application built with React and TypeScript.
+- **Detection Lab** — an Azure-hosted Active Directory environment with Splunk for security monitoring and detection practice.
+
+### Working with
+
+Python · Java · TypeScript · React · FastAPI · PostgreSQL · Azure · Splunk
